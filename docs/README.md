@@ -2,7 +2,16 @@
 
 A "What-You-See-Is-What-You-Get" document editor called **Lexi**. We'll see how design patterns capture solutions to design problems in Lexi and applications like it.  
 
-![Fig 1. The User Interface](.\imgs\userinterface.png)
+![Fig 1. The User Interface](./imgs/userinterface.png)
+
+## Table of Contents
+
+1. [Glyphs](./Glyphs.md)
+2. [Composition](./Composition.md)
+3. [UI](./UI.md)
+4. [Look and Feel](./Look-and-Feel.md)
+5. [Multiple Window](./Multiple-Window.md)
+6. [User Operation](./User-Operation.md)
 
 ## 1. Design Problems
 
