@@ -2,7 +2,7 @@
 
 A "What-You-See-Is-What-You-Get" document editor called **Lexi**. We'll see how design patterns capture solutions to design problems in Lexi and applications like it.  
 
-![Fig 1. The User Interface](\docs\imgs\userinterface.png)
+![Fig 1. The User Interface](./docs/imgs/userinterface.png)
 
 ## References
 > *Design Patterns: Elements of Reusable Object-Oriented Software* / Erich Gamma ... [et al.].p. cm.—(Addison-Wesley Professional Computing Series) ISBN 0-201-63361-2 1. Object-oriented programming (Computer science) 2. Computer software—Reusability.  
