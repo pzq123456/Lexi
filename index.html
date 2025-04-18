@@ -1,26 +1,17 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CanvasKit Comprehensive Demo</title>
-    <link rel="stylesheet" href="vitestyle.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <h1>CanvasKit Comprehensive Demo</h1>
-        <button id="theme-toggle" class="theme-toggle">Dark Mode</button>
-    </header>
-    
-    <div class="demo-container">
-        <h2>Combined Demo</h2>
-        <p>Shows all features working together: animation, shapes, and text.</p>
-        <canvas id="demo" width=400 height=400></canvas>
+    <link rel="stylesheet" href="vitestyle.css">
+  </head>
+  <body>
+    <div class="container" id="container">
+      <!-- <canvas id="canvas1"></canvas>
+      <canvas id="canvas2"></canvas> -->
     </div>
 
-    <!-- Load CanvasKit from CDN -->
-    <script type="text/javascript" src="https://unpkg.com/canvaskit-wasm@0.19.0/bin/canvaskit.js"></script>
-    <script src="main.js" type="module"></script>
-</body>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
 </html>
